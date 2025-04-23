@@ -7,7 +7,7 @@ title: About Me
 
 <div class="about-section">
   <div class="about-text">
-    <p>Studying Computer Science at the University of Michigan and planning to graduate in May 2025. I am passionate about lifelong learning and building solutions across the tech space. Last summer, I worked on creating generative AI products with SuperFocus to eliminate LLM hallucinations. I also worked with Incept EV to improve EV adoption/conversion rates by enhancing their fleet simulation software through the University of Michigan.</p>
+    <p>I am currently studying Computer Science at the University of Michigan and planning to graduate in May 2025. I am passionate about lifelong learning and building solutions across the tech space. Last summer, I worked on creating generative AI products with SuperFocus to eliminate LLM hallucinations. I also worked with Incept EV to improve EV adoption/conversion rates by enhancing their fleet simulation software through the University of Michigan.</p>
 
     
     <h2>✨ Current Interests</h2>
